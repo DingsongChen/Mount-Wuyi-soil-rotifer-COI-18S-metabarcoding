@@ -1,0 +1,35 @@
+genus,300 m,600 m,900 m,1200 m,1600 m,1800 m,2100 m,Group,Cluster,Label
+g__Abrochtha,12,0,0,0,0,1,13,Bdelloidea,Soil-COI,Abrochtha
+g__Adineta,109,223,252,144,81,107,142,Bdelloidea,Soil-COI,Adineta
+g__Anomopus,0,0,0,0,28,0,0,Bdelloidea,Soil-COI,Anomopus
+g__Habrotrocha,5,28,0,6,1,27,0,Bdelloidea,Soil-COI,Habrotrocha
+g__Macrotrachela,15,44,43,26,34,113,52,Bdelloidea,Soil-COI,Macrotrachela
+g__Philodina,16,21,21,7,43,52,111,Bdelloidea,Soil-COI,Philodina
+g__Pleuretra,0,1,2,38,89,16,0,Bdelloidea,Soil-COI,Pleuretra
+g__Rotaria,3,0,0,0,11,0,0,Bdelloidea,Soil-COI,Rotaria
+g__Brachionus,0,1,0,0,0,0,0,Monogononta,Soil-COI,Brachionus
+g__Euchlanis,0,0,0,0,16,0,0,Monogononta,Soil-COI,Euchlanis
+g__Lecane,28,0,0,15,9,0,0,Monogononta,Soil-COI,Lecane
+g__Polyarthra,120,0,0,82,0,2,0,Monogononta,Soil-COI,Polyarthra
+g__Synchaeta,0,0,0,0,6,0,0,Monogononta,Soil-COI,Synchaeta
+g__Trichocerca,10,0,0,0,0,0,0,Monogononta,Soil-COI,Trichocerca
+g__Adineta,0,0,0,4,0,0,0,Bdelloidea,Soil-18S rRNA,Adineta
+g__Anomopus,62,8,21,18,35,8,25,Bdelloidea,Soil-18S rRNA,Anomopus
+g__Embata,4,0,1,0,2,9,0,Bdelloidea,Soil-18S rRNA,Embata
+g__Habrotrocha,42,46,92,69,47,56,23,Bdelloidea,Soil-18S rRNA,Habrotrocha
+g__Philodina,1,22,5,1,23,0,2,Bdelloidea,Soil-18S rRNA,Philodina
+g__Rotaria,38,67,46,59,57,63,56,Bdelloidea,Soil-18S rRNA,Rotaria
+g__Brachionus,0,0,0,2,2,4,2,Monogononta,Soil-18S rRNA,Brachionus
+g__Bryceella,12,0,2,5,4,8,1,Monogononta,Soil-18S rRNA,Bryceella
+g__Cephalodella,0,3,0,0,0,0,0,Monogononta,Soil-18S rRNA,Cephalodella
+g__Colurella,0,1,0,0,0,0,0,Monogononta,Soil-18S rRNA,Colurella
+g__Encentrum,6,0,0,0,0,2,0,Monogononta,Soil-18S rRNA,Encentrum
+g__Euchlanis,0,0,3,0,0,0,0,Monogononta,Soil-18S rRNA,Euchlanis
+g__Floscularia,1,0,0,0,0,7,23,Monogononta,Soil-18S rRNA,Floscularia
+g__Kellicottia,1,3,0,0,2,0,2,Monogononta,Soil-18S rRNA,Kellicottia
+g__Lecane,5,12,4,1,0,17,0,Monogononta,Soil-18S rRNA,Lecane
+g__Lepadella,0,0,0,2,1,0,0,Monogononta,Soil-18S rRNA,Lepadella
+g__Mytilina,2,4,0,13,1,0,5,Monogononta,Soil-18S rRNA,Mytilina
+g__Notholca,0,0,0,0,0,0,3,Monogononta,Soil-18S rRNA,Notholca
+g__Polyarthra,0,0,0,0,0,0,3,Monogononta,Soil-18S rRNA,Polyarthra
+g__Trichotria,0,8,0,0,0,0,0,Monogononta,Soil-18S rRNA,Trichotria
